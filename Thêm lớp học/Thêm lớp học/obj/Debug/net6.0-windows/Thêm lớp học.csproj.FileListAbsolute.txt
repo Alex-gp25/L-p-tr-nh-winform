@@ -1,0 +1,17 @@
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\bin\Debug\net6.0-windows\Thêm lớp học.exe
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\bin\Debug\net6.0-windows\Thêm lớp học.deps.json
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\bin\Debug\net6.0-windows\Thêm lớp học.runtimeconfig.json
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\bin\Debug\net6.0-windows\Thêm lớp học.dll
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\bin\Debug\net6.0-windows\Thêm lớp học.pdb
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.csproj.AssemblyReference.cache
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm_lớp_học.Form1.resources
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.csproj.GenerateResource.cache
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.GeneratedMSBuildEditorConfig.editorconfig
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.AssemblyInfoInputs.cache
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.AssemblyInfo.cs
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.csproj.CoreCompileInputs.cache
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.dll
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\refint\Thêm lớp học.dll
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.pdb
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\Thêm lớp học.genruntimeconfig.cache
+D:\lập trình C#\Thêm lớp học\Thêm lớp học\obj\Debug\net6.0-windows\ref\Thêm lớp học.dll
